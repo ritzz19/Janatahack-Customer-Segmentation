@@ -30,7 +30,7 @@ Segmentation: Predicted segment for customers in the test set
 
 link: https://datahack.analyticsvidhya.com/contest/janatahack-customer-segmentation/#ProblemStatement
 
-My rank (I had done this once the hackathon was over)
+My rank (I had done this once the hackathon was over this is out of 411 candidates)
 
 ![2020-09-11_23-41-42](https://user-images.githubusercontent.com/30840805/92959697-e4877180-f489-11ea-8c22-2c8e23c2c757.png)
 
